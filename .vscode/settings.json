@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02",
+    "solidity.compileUsingLocalVersion": "/Users/ly/Downloads/project_workspace/python_project/brownie_fund_me/soljson-v0.6.6+commit.6c089d02.js"
+}
